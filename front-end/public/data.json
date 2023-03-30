@@ -1,0 +1,49 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Siva",
+      "location": "Bengaluru",
+      "likes": 64,
+      "description": "Kick start your career",
+      "PostImage": "/Assets/10x.png",
+      "date": "new Date()"
+    },
+    {
+      "id": 2,
+      "name": "Neeraj",
+      "location": "Pune",
+      "likes": 30,
+      "description": "Sample Description",
+      "PostImage": "/Assets/aeroplane.jpg",
+      "date": "15/05/2022"
+    },
+    {
+      "id": 3,
+      "name": "Rahul",
+      "location": "Hyderabad",
+      "likes": 30,
+      "description": "Sample Description for Post",
+      "PostImage": "/Assets/hills.jpg",
+      "date": "10/06/2022"
+    },
+    {
+      "name": "Dehya",
+      "location": "Sumeru",
+      "likes": 0,
+      "description": "Eremites",
+      "PostImage": "",
+      "date": "2023-02-25",
+      "id": 4
+    },
+    {
+      "name": "Dehya",
+      "location": "sumeru",
+      "likes": 0,
+      "description": "Eremites",
+      "PostImage": "",
+      "date": "2023-02-26",
+      "id": 5
+    }
+  ]
+}
